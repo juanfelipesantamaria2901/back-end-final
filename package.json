@@ -1,0 +1,26 @@
+{
+  "name": "BackEND-Baruc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "db": "^3.3.1",
+    "encoding": "^0.1.13",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "util": "^0.12.4",
+    "whatwg-url": "^9.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
